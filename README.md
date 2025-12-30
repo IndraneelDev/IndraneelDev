@@ -1,8 +1,10 @@
 ## Good day, I'm Indraneel.
 
-Aspiring Software Dev
-I like problem solving
+Aspiring Software Dev.
+I like problem solving.
 I try to grow to be the best version of myself.
+
+I use this GitHub account as a means to track my progress.
 
 My Stack:
 - **Languages:** Java (Core + OOP), Python (Basics), HTML/CSS, C
@@ -12,13 +14,12 @@ My Stack:
 - **Weaknesses:** IFallTooFastAahahahahaha (recruiters, ignore this)
 
 ## What I'm Working On:
-- The Odin Project's Full Stack Course
 - Sharpening DSA skills
-- Building C-based projects (mini-tools, automation scripts) (failing miserably, so far (recruiters, ignore this too))
+- Building C-based projects
+- Building GUIs with GTK
 - Preparing for software internships for the second/third year of college
 
 ## Projects:
-
 
 ## Connect:
 - **LinkedIn:** [linkedin.com](www.linkedin.com/in/indraneel-aarool-dev-7551512a9)
